@@ -1,0 +1,3 @@
+com\dandandog\framework\ali\config\SpringAutoScanConfig.class
+com\dandandog\framework\ali\config\AliConfig.class
+com\dandandog\framework\ali\config\properties\AliProperties.class
